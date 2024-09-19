@@ -7,7 +7,7 @@
 
 - **💬 Ask me about ML/DL , Python , Java , C/CPP and many more.**
 
-- **📫 You can reach through my [Mail](golchhaudit2203@gmail.com)**
+- **📫 You can reach through my mail - *golchhaudit2203@gmail.com***
 
 - **📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MPzIi_1jKPI_bdbuMLhQehRYRIOcSgYK/view?usp=sharing)**
 
