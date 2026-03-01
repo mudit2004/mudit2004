@@ -1,17 +1,11 @@
 <h1 align="center">Hey 👋, I'm Mudit Golchha</h1>
-<h3 align="center">A passionate Computer Science Undergrad from India.</h3>
+<h3 align="center">A Masters Student in Computer Science</h3>
+- 
+- **Ask me about ML/DL , Python , Java , C/CPP and many more.**
 
-- **🔭 I’m currently working on Self-Driving Car with Reinforcement Learning in Unity**
+- **You can reach through my mail - *golchhaudit2203+github@gmail.com***
 
-- **🌱 I’m currently developing my skills in MERN Stack and AWS.**
-
-- **💬 Ask me about ML/DL , Python , Java , C/CPP and many more.**
-
-- **📫 You can reach through my mail - *golchhaudit2203@gmail.com***
-
-- **📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MPzIi_1jKPI_bdbuMLhQehRYRIOcSgYK/view?usp=sharing)**
-
-- **⚡ Fun fact I think I can be a Stand-up Comedian 😂**
+- **Fun fact I think I can be a Stand-up Comedian 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
